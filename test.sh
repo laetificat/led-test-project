@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Test"
-exit 1
+exit 0
